@@ -1,2 +1,2 @@
-# PCB-projects
-PCB designs
+# IOT PCB
+This project involves the design of a custom PCB featuring the ESP32 microcontroller, aimed at enabling robust IoT applications. The board integrates multiple communication and storage interfaces, including Ethernet, RS485, and an SD card module. With these capabilities, the board serves as a versatile platform for developing and deploying a wide range of industrial and commercial IoT solutions.
